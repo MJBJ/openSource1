@@ -1,7 +1,7 @@
 # 계산기 만들기
-def sum:
+def sum(a,b):
     # 덧셈 함수
-    pass
+    return a+b
 
 def sub:
     # 뺄샘 함수
